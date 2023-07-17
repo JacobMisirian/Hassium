@@ -24,10 +24,3 @@ Want to embed Hassium in your site/blog?
 On our Wiki you can find specific documentation on Hassium classes and functions
 as well as a general programming in Hassium guide found [here](https://github.com/HassiumTeam/Hassium/wiki/General-Guide).
 ### [YouTube Video](https://www.youtube.com/watch?v=9lFGvJAjJ2g&feature=youtu.be)
-
-### Donate
-Hassium is free as in freedom and free beer. If you still wish to make a donation you can deposit bitcoin to ```32ZVEmqWXyBGYBGPa4nm2ymu5tLdfZ85Pz```.
-
-
-Any questions can be directed to myself at misiriansoft@gmail.com
-or on irc.int0x10.com:6697 as Reagan, or to zdimension at zippedfire (@) free.fr or on irc.int0x10.com:6697 as zdimension.
